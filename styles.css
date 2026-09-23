@@ -31,14 +31,6 @@ body {
   box-shadow: 10px 10px 0 #d7e0e5;
 }
 
-.eyebrow {
-  margin: 0 0 12px;
-  color: #bc5b3f;
-  font: 700 0.75rem/1.2 Arial, sans-serif;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
 h1,
 h2,
 p {
